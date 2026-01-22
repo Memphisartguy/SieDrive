@@ -1,6 +1,8 @@
 # SieDrive
 Drive Migration
 
+We'll ned to open CMD.EXE
+
 Copy below this line in to CMD.EXE-----------------
 net use Z: /delete
 net use Z: "\\ad001.siemens.net\dfs001\File\US\SVQA_Everyone\Everyone"
